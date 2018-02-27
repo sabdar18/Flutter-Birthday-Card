@@ -1,4 +1,4 @@
-# birthday_card
+# Birthday Card
 
 A new Flutter project.
 
